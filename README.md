@@ -1,1 +1,1 @@
-# Prusa_I3MM
+# PrusaI3MM
