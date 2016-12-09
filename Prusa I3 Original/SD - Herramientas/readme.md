@@ -1,1 +1,1 @@
-Estamos trabajando en esta sección
+En esta sección encontraras varias herramientas útiles para operar nuestra impresora 3D desde la tarjeta SD.
